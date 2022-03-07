@@ -1,0 +1,11 @@
+{
+  "name": "Puppeteer",
+  "version": "1.0.0",
+  "description": "Automated web scraper using puppeteer",
+  "main": "index.js",
+  "author": "Alvian Zachry Faturrahman",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^13.5.0"
+  }
+}
